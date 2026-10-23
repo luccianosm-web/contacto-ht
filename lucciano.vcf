@@ -4,15 +4,21 @@ N:Santoro;Lucciano;;;
 FN:Lucciano Santoro
 ORG:Human Touch & Partners
 TITLE:Consultor Asociado
-TEL;TYPE=CELL,VOICE:+56999422098
+TEL;TYPE=WORK,VOICE:+56999422098
 EMAIL;TYPE=WORK:lsantoro@humantouch.cl
-item1.URL:https://humantouch.cl
-item1.X-ABLabel:Human Touch
-item2.URL:https://linkedin.com/in/enzo-lucciano-gianluca-santoro-morales-a621a125b
-item2.X-ABLabel:LinkedIn
+ADR;TYPE=WORK:;Oficina 909;Manquehue Norte 151;Las Condes;Metropolitana;;Chile
+item1.URL:https://luccianosm-web.github.io/contacto-ht/
+item1.X-ABLabel:Tarjeta de contacto
+item2.URL:https://www.humantouch.cl
+item2.X-ABLabel:Página Web
 item3.URL:https://bookings.cloud.microsoft/bookwithme/user/8f2f61aa900346ddb5579b7accbc1bdd@humantouch.cl/meetingtype/WgFvOSh520KeE7slleunGA2?anonymous&ismsaljsauthenabled&ep=mlink
-item3.X-ABLabel:Agendar reunión
-X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/enzo-lucciano-gianluca-santoro-morales-a621a125b
+item3.X-ABLabel:Agenda
+item4.URL:https://www.linkedin.com/in/luccianosantoro
+item4.X-ABLabel:LinkedIn
+item5.URL:https://www.instagram.com/humantouch.cl/
+item5.X-ABLabel:Instagram
+item6.URL:https://wa.me/56999422098
+item6.X-ABLabel:WA Business
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQY
  HBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2
  wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCg
